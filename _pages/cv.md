@@ -38,6 +38,12 @@ Research Projects
   * Dates: Fall 2025 - Present
   * Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
+Honors & Awards
+===============
+
+* 2026 CCI SWVA Cyber Innovation Scholar, Commonwealth Cyber Initiative
+* Travel Award, ACM The Capital Region Celebration of Women in Computing (CAPWIC 2025)
+
 Teaching
 ========
 

@@ -24,4 +24,5 @@ Designing AI-driven approaches for online safety, including scam and cybergroomi
 
 ## News
 
+* **Feb 27, 2026** Selected as [2026 CCI SWVA Cyber Innovation Scholar](https://cyberinitiative-swva.org/news/events/cci-cyber-innovation-scholars-2026.html)
 * **Feb 3, 2026** Hello World!
