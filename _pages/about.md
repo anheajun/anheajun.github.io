@@ -23,6 +23,6 @@ Understanding and analyzing how people interact with and utilize LLM-based syste
 Designing AI-driven approaches for online safety, including scam and cybergrooming prevention.
 
 ## News
-
+* **March 27, 2026** I have passed [CS Ph.D. Data/ML/AI Qualifier](https://people.cs.vt.edu/chris/qualifier_2026/)
 * **Feb 27, 2026** Selected as [2026 CCI SWVA Cyber Innovation Scholar](https://cyberinitiative-swva.org/news/events/cci-cyber-innovation-scholars-2026.html) 🎉🎉
 * **Feb 3, 2026** Hello World!
