@@ -34,14 +34,21 @@ Research Projects
   * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
 * **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
 
-  * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
-  * Dates: Fall 2025 - Present
+  * Funding: Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA) and OpenAI
+  * Dates: Fall 2025 - Summer 2026
   * Principal Investigators: Jin-Hee Cho, Junghwan Kim
+* **Cyber-Resilient Teen LLM Interactions: Preventing Privacy Leakage and Harm Escalation via Rewrite-Based Guardrails**
+
+  * Funding: Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA)
+  * Dates: Summer 2026
+  * Principal Investigator: Jin-Hee Cho
 
 Honors & Awards
 ===============
 
 * 2026 CCI SWVA Cyber Innovation Scholar, Commonwealth Cyber Initiative
+* Virginia Tech CS Departmental Travel Grant, Commonwealth Cyber Initiative Symposium 2026
+* Travel Award, ACM The Capital Region Celebration of Women in Computing (CAPWIC 2026)
 * Travel Award, ACM The Capital Region Celebration of Women in Computing (CAPWIC 2025)
 
 Teaching
