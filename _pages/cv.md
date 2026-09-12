@@ -32,6 +32,11 @@ Research Projects
   * Dates: Fall 2024 - Present
   * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
   * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+* **SPARK: Safe Parks And Roads for Kids**
+
+  * Funding: Healthy Communities Action Team (HCAT), Virginia Foundation for Healthy Youth (VFHY)
+  * Dates: Fall 2026 - Present
+  * Principal Investigators: Jin-Hee Cho, Junghwan Kim
 * **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
 
   * Funding: Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA) and OpenAI
@@ -46,10 +51,20 @@ Research Projects
 Honors & Awards
 ===============
 
-* 2026 CCI SWVA Cyber Innovation Scholar, Commonwealth Cyber Initiative
+* GPSS Travel Fund Program, Ninth AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES-26)
+* Domestic student travel grant, The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)
+* 2026 CCI SWVA Cyber Innovation Scholar, Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA)
 * Virginia Tech CS Departmental Travel Grant, Commonwealth Cyber Initiative Symposium 2026
 * Travel Award, ACM The Capital Region Celebration of Women in Computing (CAPWIC 2026)
 * Travel Award, ACM The Capital Region Celebration of Women in Computing (CAPWIC 2025)
+
+Service
+========
+
+* Program Commitee, The 41st Annual AAAI Conference on Artificial Intelligence Special Track on AI Alignment (AAAI-27)
+* Reviewer, IEEE Transactions on Services Computing
+* Program Commitee, Ninth AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES-26)
+* Student Volunteer, The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)
 
 Teaching
 ========
