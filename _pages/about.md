@@ -10,14 +10,22 @@ I am a third-year Ph.D. student in the [Department of Computer Science](https://
 
 ## Research Interests
 
-**AI Safety and Guardrails**
-Developing methods to evaluate and mitigate unsafe, harmful, or misleading behaviors in large language models, including modular and audience-specific guardrails.
+**AI for Human Safety**
+Developing AI systems that help people recognize risks, understand threats, and make safer decisions, particularly in harmful or deceptive online environments.
+Selected Work: [StagePilot](https://aclanthology.org/2026.sigdial-1.37/), [A2CL](https://vta2cl.vercel.app/)
 
-**Human-Centered AI Safety**
-Studying how people interpret, trust, and interact with AI systems, with a particular interest in designing safer and more trustworthy AI for vulnerable users.
+**Human-Aware AI Safety**
+Designing safety mechanisms that account for who AI is interacting with, moving beyond one-size-fits-all safeguards toward age- and context-appropriate responses and protections.
+Selected Work: [CR4T](https://arxiv.org/abs/2605.21609), Age-based Guardrail(Under Development)
 
-**AI for Online Safety and Security**
-Developing AI-driven approaches to protect users from online harms, including scams, cybergrooming, and other forms of deceptive or harmful interactions.
+**AI Behavior and Resilience**
+Understanding how AI behavior can be influenced, distorted, or become unreliable, and developing methods to detect, mitigate, and recover from undesirable behavioral changes.
+Selected Work: [VEXA](https://arxiv.org/abs/2602.05056), Subliminal Learning (Under Development)
+
+## Project Websites
+
+[Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming](https://wordpress.cs.vt.edu/rylai/)
+[TRACES: Trustworthy and Responsible AI for Cybersecurity, Explainability, and Safety](https://wordpress.cs.vt.edu/traces/)
 
 
 ## News

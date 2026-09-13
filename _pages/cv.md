@@ -42,6 +42,7 @@ Research Projects
   * Funding: Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA) and OpenAI
   * Dates: Fall 2025 - Summer 2026
   * Principal Investigators: Jin-Hee Cho, Junghwan Kim
+  * Website: [Link](https://wordpress.cs.vt.edu/traces/)
 * **Cyber-Resilient Teen LLM Interactions: Preventing Privacy Leakage and Harm Escalation via Rewrite-Based Guardrails**
 
   * Funding: Commonwealth Cyber Initiative Southwest Virginia (CCI SWVA)
