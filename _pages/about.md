@@ -34,7 +34,7 @@ Selected Work: [VEXA](https://arxiv.org/abs/2602.05056), Subliminal Learning (On
 
 ## News
 
-* **September 12, 2026** I am currently looking for travel grant for my [AIES-26](https://www.aies-conference.com/2026/) travel. Please let me know if there are any opportunities.
+* **September 29, 2026** I will be presenting my paper in [AIES-26](https://www.aies-conference.com/2026/) on Oct 13, 2026.
 * **August 04, 2026** I have presented "StagePilot" in [SIGDIAL 2026](https://2026.sigdial.org/assets/files/presentations/P2.5.pdf) Thank you for joining!
 * **July 28, 2026** Our paper "Grounded but Misleading: Evaluating Semantic Alignment in AI-Generated Security Explanations" has been accepted to [AIES-26](https://www.aies-conference.com/2026/)! 
 * **June 02, 2026** Our paper "StagePilot" has been accepted to [SIGDIAL 2026](https://2026.sigdial.org/). Thanks to my collaborators!
