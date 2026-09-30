@@ -33,7 +33,7 @@ Selected Work: [VEXA](https://arxiv.org/abs/2602.05056), Subliminal Learning (On
 
 
 ## News
-
+* **September 30, 2026** I have received [GRDP Funding](https://gpss.vt.edu/programs/grdp.html) for the next version of CR4T!
 * **September 29, 2026** I will be presenting my paper in [AIES-26](https://www.aies-conference.com/2026/) on Oct 13, 2026.
 * **August 04, 2026** I have presented "StagePilot" in [SIGDIAL 2026](https://2026.sigdial.org/assets/files/presentations/P2.5.pdf) Thank you for joining!
 * **July 28, 2026** Our paper "Grounded but Misleading: Evaluating Semantic Alignment in AI-Generated Security Explanations" has been accepted to [AIES-26](https://www.aies-conference.com/2026/)! 
